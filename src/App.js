@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css';
 import Registry from './components/Registry';
 import Header from "./components/Header"
